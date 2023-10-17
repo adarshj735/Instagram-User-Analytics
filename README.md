@@ -5,7 +5,7 @@
 ### Part A - Marketing:
 
 #### 1. Rewarding Most Loyal Users:
-Identify loyal users based on their activity and engagement with the platform. You can define loyalty based on criteria such as the number of posts, comments, likes, and followers.
+Identify loyal users based on their activity and engagement with the platform. We can define loyalty based on criteria such as the number of posts, comments, likes, and followers.
 SQL Query: Calculate user loyalty scores and select the top users.
 
 #### 2. Remind Inactive Users to Start Posting:
@@ -21,9 +21,8 @@ Analyze the most popular and trending hashtags.
 SQL Query: Count the usage of different hashtags and identify the most frequently used ones.
 
 #### 5. Launch AD Campaign:
-Select the target audience based on user demographics and interests.
-SQL Query: Retrieve user data for targeting and measure the campaign's effectiveness by tracking user engagement.
-
+Select the day on which users are most active or register and post AD .
+SQL Query: Retrieve the day on which users are most active or register
 ### Part B - Investor Metrics:
 
 #### 1. User Engagement:
